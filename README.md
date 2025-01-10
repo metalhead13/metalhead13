@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @metalhead13
-- 👀 I’m interested in code with Python and DataScience, sql etc..
-- 🌱 I’m currently learning Pandas  
-- 💞️ I’m looking to collaborate on everything relative with coding 
+# 👋 Welcome to my GitHub Profile!
 
-<!---
-metalhead13/metalhead13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **@metalhead13**, a passionate coder and metal enthusiast! 🤘
+
+## 👀 About Me
+- 🔥 I have a deep interest in:
+  - 🐍 Python Programming
+  - 📊 Data Science and Analytics
+  - 🛠️ C++ Programming
+  - 🖤 Black Metal vibes (because life needs rhythm, on and off the keyboard).
+
+## 🌱 Currently Learning
+- 📚 **Advanced C++ Concepts**: Diving deep into multithreading, design patterns, and memory optimization.
+
+## 💞️ Collaboration
+I'm always eager to collaborate on anything coding-related, especially:
+- Python projects
+- Data analysis and visualization
+- C++ development and solutions
+
+## 🎵 Fun Fact
+When I’m not coding, you can find me rocking out to black metal or experimenting with beats on my **drums**. 
+
+---
+
+\m/ Stay metal, stay curious! \m/
