@@ -1,32 +1,32 @@
 ---
 
-# 👋 **Welcome to My GitHub Profile!**
+#  **Welcome to My GitHub Profile!**
 
 I'm **@metalhead13**, a passionate developer and metalhead 🤘.
 
 ---
 
-## 👀 **About Me**
+##  **About Me**
 
-🔥 **Key Interests:**
+ **Key Interests:**
 
 - 🐍 **Python Programming**
-- 🛠️ **C++ Development**
-- 🤖📊 **Machine Learning & AI for Data-Driven Solutions**
-- 🖤🥁 **Black Metal Drummer** (because life needs rhythm, both in and out of code)
+-  **C++ Development**
+-  **Machine Learning & AI for Data-Driven Solutions**
+-  **Black Metal Drummer** (because life needs rhythm, both in and out of code)
 
 ---
 
-## 🌱 **Currently Learning**
+##  **Currently Learning**
 
-- 📚 **Machine Learning for Data Insights:**  
+-  **Machine Learning for Data Insights:**  
     Developing skills in predictive modeling, clustering, and decision-making algorithms to extract valuable insights from large datasets.
-- 🔍 **Optimizing Models:**  
+-  **Optimizing Models:**  
     Experimenting with hyperparameter tuning, cross-validation, and feature selection to maximize model performance and robustness.
 
 ---
 
-## 🤝 **Collaboration & Freelance Services**
+##  **Collaboration & Freelance Services**
 
 I'm open to collaborating on and offering freelance services in the following areas:
 
@@ -41,7 +41,7 @@ If you're looking for a Python developer or machine learning expert to help with
 
 ---
 
-## 🎵 **Fun Fact**
+##  **Fun Fact**
 
 When I’m not coding, I’m captivated by **orcas**—known as the **wolves of the sea**. 
 These apex predators exhibit extraordinary intelligence, organizing their hunting strategies with military precision. 
