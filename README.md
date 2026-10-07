@@ -13,8 +13,8 @@ I'm **@metalhead13**, a passionate developer and metalhead 🤘.
 - 🐍 **Python Programming**
 -  **C++ Development**
 -  **Machine Learning & AI for Data-Driven Solutions**
--  **Black Metal Drummer** (because life needs rhythm, both in and out of code)
-
+-  **Black Metal Drummer** 
+ 
 ---
 
 ##  **Currently Learning**
